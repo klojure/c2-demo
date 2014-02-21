@@ -1,10 +1,10 @@
 # c2-demo
 
-A Clojure library designed to ... well, that part is up to you.
+http://www.meetup.com/KLojure-User-Group/events/167231462/
 
 ## Usage
 
-FIXME
+- lein test
 
 ## License
 
